@@ -1,17 +1,12 @@
-import reactLogo from './assets/react.svg'
 import './App.css'
+import { MainContainer } from './shared/components/mainContainer'
 
-function App() {
+export const App = () => {
   return (
     <>
-      <div>
-        <a href="https://react.dev" target="_blank">
-          <img src={reactLogo} className="animate-bounce" alt="React logo" />
-        </a>
-        <p className="text-3xl font-bold underline">Website under construction...</p>
-      </div>
+      <MainContainer>
+        Conteúdo
+      </MainContainer>
     </>
   )
 }
-
-export default App
