@@ -2,12 +2,6 @@
 
 This is my personal professional page repository, who is also an experimental page for testing and studying new stuff.
 
-I'm currently using => 
+These are the main stacks currently used on this project:
 
-React; 
-TypeScript; 
-Vite; 
-Material-UI; 
-TailwindCSS;
-
-[![My Skills](https://skillicons.dev/icons?i=react,ts&theme=dark&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,ts,vite,materialui,tailwind&theme=dark&perline=3)](https://skillicons.dev)
