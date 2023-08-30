@@ -10,4 +10,4 @@ Vite;
 Material-UI; 
 TailwindCSS;
 
-[![My Skills](https://skillicons.dev/icons?i=react,ts&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,ts&theme=dark&perline=3)](https://skillicons.dev)
