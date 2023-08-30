@@ -4,4 +4,4 @@ This is my personal professional page repository, who is also an experimental pa
 
 These are the main resources currently used on this project:
 
-[![My Skills](https://skillicons.dev/icons?i=react,ts,vite,materialui,tailwind&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,ts,vite,materialui,tailwind,githubactions&theme=dark)](https://skillicons.dev)
