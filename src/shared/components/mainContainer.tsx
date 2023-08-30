@@ -5,8 +5,6 @@ interface MainContainerProps {
     children: ReactNode
 }
 
-
-
 export const MainContainer = ({ children }: MainContainerProps) => {
     return (
         <Paper>{children}</Paper>
